@@ -1,6 +1,8 @@
 ### Hi there 👋
-- 🌱 I’m currently learning :
-* JavaScript
+:muscle: I’m currently working on Unit Engineering Converter (in Hebrew).
+- 🌱 I’m currently learning JavaScript, soon after that i'll learn Angular/React.
+- 👯 I’m looking to collaborate on every Open-Source project.
+- 📫 How to reach me: 
 
 
 <!--
