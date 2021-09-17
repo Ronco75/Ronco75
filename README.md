@@ -1,7 +1,5 @@
 ### Hi there 👋
-- :muscle: I’m currently working on Unit Engineering Converter (in Hebrew).
-- :books: I’m currently learning JavaScript, soon after that i'll learn React.
-- :v: I’m looking to collaborate on any Open-Source project.
+- :books: I’m currently learning JavaScript.
 
 <!--
 **Ronco75/Ronco75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
