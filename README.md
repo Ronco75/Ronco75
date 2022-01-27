@@ -1,5 +1,5 @@
 ### Hi there 👋
-- :books: I’m currently learning JavaScript.
+- :books: I’m currently learning React.
 
 <!--
 **Ronco75/Ronco75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
