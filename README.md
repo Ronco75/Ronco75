@@ -1,5 +1,5 @@
 ### Hi there 👋
-- :books: I’m currently pursuing a CS Degree, Also learn ReactJS on my own.
+- :books: I’m currently pursuing a CS Degree, Also learn Backend development (Spring Boot) on my own.
 
 <!--
 **Ronco75/Ronco75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
