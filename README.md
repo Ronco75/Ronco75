@@ -17,7 +17,7 @@
 ![JUnit](https://img.shields.io/badge/JUNIT-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 ## Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Microservices](https://img.shields.io/badge/MICROSERVICES-FF6C37?style=for-the-badge&logo=fastify&logoColor=white)
 
