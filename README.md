@@ -13,8 +13,8 @@
 
 ## Frameworks & Libraries
 ![Spring](https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/DJANGO-6DB33F?style=for-the-badge&logo=django&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/REACTJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JUnit](https://img.shields.io/badge/JUNIT-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 ## Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
